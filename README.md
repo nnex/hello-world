@@ -1,2 +1,6 @@
 # hello-world
 Ideas, Resources, Sharing space - test
+
+Musician, Higher Ed Practioner, Technical Project Manager, Serialist Career Changer.
+
+I've heard you learn the most when one engages in difficult concepts and tasks, you add the most value when one diversifies their skills and knowledge, and that productivity boils down to thinking differently. For these reasons and more, I am challenging myself to learn Ruby-on-Rails, GIT, and the Terminal at an expert level. Starting with these skills is really a first pass at identifying, grouping, and organizing how I can become a developer. I hope to learn additional computer programming languages and skills, but this initial undertaking is my first real attempt and are far more technically challenging than any other set of tasks I previously encountered. Therefore, I will start here--at Ruby-on-Rails, GIT, and the Terminal. My hope is by doing so, I will surprise myself by what I am able to accomplish without formal and expensive training, determine whether I am capable of self-motivating during anticipated periods of frustration, confusion, and aimlessness, and potentially throwing myself into yet a new, and possibly far more rewarding field than I have ever experienced.  
